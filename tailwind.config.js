@@ -44,7 +44,8 @@ export default {
       },
 
       backgroundImage: {
-        orange: "url('/images/desktop/image-header.jpg')",
+        headerBg: "url('/src/assets/desktop/image-header.jpg')",
+        headerMobileBg: "url('/src/assets/mobile/image-header.jpg')",
       },
 
       boxShadow: {
