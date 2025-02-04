@@ -1,6 +1,6 @@
 const images = [
   {
-    desktopImageURL: "/images/desktop/image-gallery-sugarcubes.jpg",
+    desktopImageURL: "url('/images/desktop/image-gallery-sugarcubes.jpg')",
     mobileImageURL: "/images/mobile/image-gallery-sugar-cubes.jpg",
   },
   {
