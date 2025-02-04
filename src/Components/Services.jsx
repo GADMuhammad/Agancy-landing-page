@@ -6,8 +6,8 @@ const content = [
     heading: "Transform Your Brand",
     paragraph:
       "We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.",
-    imageURL: "/src/assets/desktop/image-transform.jpg",
-    mobileImageURL: "/src/assets/mobile/image-transform.jpg",
+    imageURL: "desktop/image-transform.jpg",
+    mobileImageURL: "mobile/image-transform.jpg",
     order: ["order-0", "order-1"],
     styles: "before:bg-lightYellow before:hover:bg-softYellow",
   },
@@ -15,8 +15,8 @@ const content = [
     heading: "Stand out to the right audience",
     paragraph:
       "Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters,we'll build and extend your brand in digital places.",
-    imageURL: "/src/assets/desktop/image-stand-out.jpg",
-    mobileImageURL: "/src/assets/mobile/image-stand-out.jpg",
+    imageURL: "desktop/image-stand-out.jpg",
+    mobileImageURL: "mobile/image-stand-out.jpg",
     order: ["order-3", "order-2"],
     styles: "before:bg-lightRed before:hover:bg-softRed",
   },
@@ -24,15 +24,15 @@ const content = [
     heading: " Graphic Design",
     paragraph:
       "Great design makes you memorable. We deliver artwork that underscores your brand message and captures potential clients' attention.",
-    imageURL: "/src/assets/desktop/image-graphic-design.jpg",
-    mobileImageURL: "/src/assets/mobile/image-graphic-design.jpg",
+    imageURL: "desktop/image-graphic-design.jpg",
+    mobileImageURL: "mobile/image-graphic-design.jpg",
   },
   {
     heading: "PhotoGraphy",
     paragraph:
       "Increase your credibility by getting the most stunning, high-quality photos that improve your business image.",
-    imageURL: "/src/assets/desktop/image-photography.jpg",
-    mobileImageURL: "/src/assets/mobile/image-photography.jpg",
+    imageURL: "desktop/image-photography.jpg",
+    mobileImageURL: "mobile/image-photography.jpg",
   },
 ];
 

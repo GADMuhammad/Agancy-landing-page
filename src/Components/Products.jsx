@@ -1,19 +1,19 @@
 const images = [
   {
-    desktopImageURL: "/src/assets/desktop/image-gallery-sugarcubes.jpg",
-    mobileImageURL: "/src/assets/mobile/image-gallery-sugar-cubes.jpg",
+    desktopImageURL: "desktop/image-gallery-sugarcubes.jpg",
+    mobileImageURL: "mobile/image-gallery-sugar-cubes.jpg",
   },
   {
-    desktopImageURL: "/src/assets/desktop/image-gallery-milkbottles.jpg",
-    mobileImageURL: "/src/assets/mobile/image-gallery-milkbottles.jpg",
+    desktopImageURL: "desktop/image-gallery-milkbottles.jpg",
+    mobileImageURL: "mobile/image-gallery-milkbottles.jpg",
   },
   {
-    desktopImageURL: "/src/assets/desktop/image-gallery-orange.jpg",
-    mobileImageURL: "/src/assets/mobile/image-gallery-orange.jpg",
+    desktopImageURL: "desktop/image-gallery-orange.jpg",
+    mobileImageURL: "mobile/image-gallery-orange.jpg",
   },
   {
-    desktopImageURL: "/src/assets/desktop/image-gallery-cone.jpg",
-    mobileImageURL: "/src/assets/mobile/image-gallery-cone.jpg",
+    desktopImageURL: "desktop/image-gallery-cone.jpg",
+    mobileImageURL: "mobile/image-gallery-cone.jpg",
   },
 ];
 

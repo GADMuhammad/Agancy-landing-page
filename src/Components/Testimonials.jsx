@@ -6,42 +6,42 @@ const opinions = [
   {
     quote:
       "We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.",
-    img: "src/assets/image-emily.jpg",
+    img: "image-emily.jpg",
     person: "Emily R.",
     job: "Marketing Director",
   },
   {
     quote:
       "Sunnyside’s enthusiasm coupled with their keen interest in our brand’s success made it a satisfying and enjoyable experience.",
-    img: "src/assets/image-thomas.jpg",
+    img: "image-thomas.jpg",
     person: "Thomas S.",
     job: "Chief Operating Officer",
   },
   {
     quote:
       "Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!",
-    img: "src/assets/image-jennie.jpg",
+    img: "image-jennie.jpg",
     person: "Jennie F.",
     job: "Business Owner",
   },
   {
     quote:
       "Sunnyside transformed our brand image and gave us a fresh perspective on how to connect with our audience.",
-    img: "src/assets/image-michael.jpg",
+    img: "image-michael.jpg",
     person: "Michael T.",
     job: "Creative Director",
   },
   {
     quote:
       "Working with Sunnyside was a game-changer. Their innovative approach and dedication brought our vision to life.",
-    img: "src/assets/image-pole.jpg",
+    img: "image-pole.jpg",
     person: "Pole L.",
     job: "Brand Manager",
   },
   {
     quote:
       "Professional, creative, and result-driven! Sunnyside exceeded our expectations in every possible way.",
-    img: "src/assets/image-daniel.jpg",
+    img: "image-daniel.jpg",
     person: "Daniel K.",
     job: "Startup Founder",
   },

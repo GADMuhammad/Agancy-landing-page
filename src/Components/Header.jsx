@@ -59,14 +59,14 @@ export default function Header() {
 
       <section
         id="About"
-        className="bg-headerBg max-second:bg-headerMobileBg h-restScreenAfterHeader bg-cover bg-center px-6 text-white"
+        className="h-restScreenAfterHeader bg-headerBg bg-cover bg-center px-6 text-white max-second:bg-headerMobileBg"
       >
         <h2 className="py-28 text-center text-7xl font-bold tracking-widest max-forth:text-[12vw]">
           WE ARE CREATIVES
         </h2>
 
         <img
-          src="/src/assets/icon-arrow-down.svg"
+          src="icon-arrow-down.svg"
           className="justify-self-center"
           alt="An arrow pointing to the image of an orange."
         />
