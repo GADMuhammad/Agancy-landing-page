@@ -45,8 +45,6 @@ export default {
 
       backgroundImage: {
         orange: "url('/images/desktop/image-header.jpg')",
-        // Apple: "url('/images/desktop/image-graphic-design.jpg')",
-        Tangerine: "url('/images/desktop/image-photography.jpg')",
       },
 
       boxShadow: {
