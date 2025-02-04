@@ -44,8 +44,8 @@ export default {
       },
 
       backgroundImage: {
-        headerBg: "url('public/desktop/image-header.jpg')",
-        headerMobileBg: "url('public/mobile/image-header.jpg')",
+        headerBg: "url('desktop/image-header.jpg')",
+        headerMobileBg: "url('mobile/image-header.jpg')",
       },
 
       boxShadow: {
