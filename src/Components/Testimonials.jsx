@@ -47,7 +47,7 @@ const opinions = [
   },
 ];
 
-var settings = {
+const settings = {
   dots: true,
   lazyLoad: true,
   infinite: true,
@@ -76,7 +76,7 @@ var settings = {
 export default function Testimonials() {
   return (
     <section id="Projects" className="px-20 pb-8 pt-20 max-sixth:px-10">
-      <h1 className="h-fit w-fit justify-self-center text-center text-3xl uppercase tracking-widest text-Grayish-blue">
+      <h1 className="mx-auto h-fit w-fit text-3xl uppercase tracking-widest text-Grayish-blue">
         client testimonials
       </h1>
 
@@ -84,10 +84,7 @@ export default function Testimonials() {
         <Slider {...settings}>
           {opinions.map(({ quote, img, person, job }) => (
             <figure key={person} className="mb-5 px-2 text-center">
-              <img
-                className="mb-6 h-28 w-28 justify-self-center rounded-full"
-                src={img}
-              />
+              <img className="mx-auto mb-6 h-28 w-28 rounded-full" src={img} />
               <blockquote className="mb-6">{quote}</blockquote>
               <h5 className="font-semibold tracking-wider">{person}</h5>
               <h6 className="tracking-wide">{job}</h6>
