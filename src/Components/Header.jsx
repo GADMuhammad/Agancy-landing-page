@@ -67,7 +67,7 @@ export default function Header() {
 
         <img
           src="icon-arrow-down.svg"
-          className="justify-self-center"
+          className="mx-auto"
           alt="An arrow pointing to the image of an orange."
         />
       </section>
